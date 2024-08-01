@@ -1,8 +1,8 @@
 ![MasterHead](https://blog.112dijital.com/wp-content/uploads/2018/03/tipografi-hatalari.gif)
 # 👋 Hi, I’m Jaime, I'm a Mechatronic's Engineer Student
-## Currently a junior @ITAM
+## Currently a senior @ITAM
 - 👀 I’m interested in most forms of programming, signals and systems, control theory and pc building.
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust and Golang
 - 📫 How to reach me: **jaime_compuxtyle@hotmail.com**
 
 ## Connect with me:
@@ -23,4 +23,5 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+<a href="go.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="python" width="40" height="40"/></a>
