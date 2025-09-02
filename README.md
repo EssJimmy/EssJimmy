@@ -1,6 +1,5 @@
 ![MasterHead](https://blog.112dijital.com/wp-content/uploads/2018/03/tipografi-hatalari.gif)
-# 👋 Hi, I’m Jaime, I'm a Mechatronic's Engineer Student
-## Currently a senior @ITAM
+# 👋 Hi, I’m Jaime, I'm a Mechatronic Engineer
 - 👀 I’m interested in most forms of programming, signals and systems, control theory and pc building.
 - 🌱 I’m currently learning Rust and Golang
 - 📫 How to reach me: **jaime_compuxtyle@hotmail.com**
